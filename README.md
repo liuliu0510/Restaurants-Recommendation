@@ -1,7 +1,7 @@
 # Fast Matrix Factorization for Restaurant Recommendation
 
 
-### This is a course project of CSCE670 Information Storage and Retrieval.
+### This is a research project related to Information Storage and Retrieval.
 
 #### Developers:
 Fangshuo Liu, Leyi Hu, Mindong Xie, Xiangyu Li
